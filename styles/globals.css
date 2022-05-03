@@ -13,4 +13,10 @@ a {
 
 * {
   box-sizing: border-box;
+
+}
+
+*::selection {
+  color: #0f111a;
+  background: #fff; 
 }

@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.8.6",
+    "@emotion/react": "11",
+    "@emotion/styled": "11",
+    "@fontsource/nunito": "^4.5.4",
+    "@fontsource/sen": "^4.5.3",
+    "framer-motion": "6",
+    "locomotive-scroll": "^4.1.4",
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "sass": "^1.51.0"
   },
   "devDependencies": {
     "@types/node": "17.0.22",
